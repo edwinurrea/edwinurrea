@@ -1,17 +1,17 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=edwinurrea&label=Visitors&color=01c2d0&style=flat" alt="edwinurrea" /> </p>
 
-<h1 align="center">Hi 👋, I'm Edwin Urrea</h1>
+<h1 align="center">Hi 👋, I'm Edwin Urrea!</h1>
 <h3 align="center">A bilingual and passionate emerging Full Stack Developer from Georgia, US.</h3>
 
-- 🔭 I’m currently working on an **sms-based weather notifier!**
+- 🔭 I’m currently working on an sms-based weather notifier!
 
-- 👯 I’m looking to collaborate on **projects!**
+- 👯 I’m looking to collaborate on projects!
 
-- 💬 Ask me about **AI!**
+- 💬 Ask me about AI!
 
 - 📫 How to reach me **edwinurrea@icloud.com**
 
-- ⚡ Fun fact **I love cats and volunteering!**
+- ⚡ Fun fact: **I love cats and volunteering!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
