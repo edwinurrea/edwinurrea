@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Edwin Urrea!</h1>
 <h3 align="center">A bilingual and passionate emerging Full Stack Developer from Georgia, US.</h3>
 
+<img align="right" width="350px" alt="gif" src="https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.gif" />
+
 - 🔭 I’m currently working on an sms-based weather notifier!
 
 - 👯 I’m looking to collaborate on projects!
