@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on an sms-based weather notifier!
 
-- 👯 I’m looking to collaborate on projects!
+- 👯 I’m looking to find work and collaborate with an amazing team!
 
 - 💬 Ask me about AI!
 
