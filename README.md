@@ -48,7 +48,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/edwin-urrea-a369851bb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin-urrea-a369851bb" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/urreaedwin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin-urrea-a369851bb" height="30" width="40" /></a>
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
