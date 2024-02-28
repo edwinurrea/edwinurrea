@@ -51,6 +51,7 @@
   <a href="https://linkedin.com/in/urreaedwin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin-urrea-a369851bb" height="30" width="40" /></a>
 </p>
 
+<h3></h3>
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinurrea&theme=highcontrast" alt="edwinurrea"/>
 </div>
