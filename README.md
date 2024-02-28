@@ -51,13 +51,12 @@
   <a href="https://linkedin.com/in/urreaedwin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin-urrea-a369851bb" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-  <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=edwinurrea&show_icons=true&theme=highcontrast&locale=en" alt="edwinurrea" style="padding-right:0px"/>
-  <img align="right" width="48.759%" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinurrea&theme=highcontrast" alt="edwinurrea" style="padding-left:0px"/>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinurrea&theme=highcontrast" alt="edwinurrea"/>
 </div>
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinurrea&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="edwinurrea" />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinurrea&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="edwinurrea" />
 </div>
 
 
