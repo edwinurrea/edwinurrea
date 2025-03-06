@@ -1,19 +1,19 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=edwinurrea&label=Visitors&color=01c2d0&style=flat" alt="edwinurrea" /> </p>
 
 <h1 align="center">Hi 👋, I'm Edwin Urrea!</h1>
-<h3 align="center">A bilingual and passionate emerging Full Stack Developer from Georgia, US.</h3>
+<h3 align="center">A bilingual and passionate AI/ML Enthusiast from Georgia, US.</h3>
 
 <img align="right" width="350px" alt="gif" src="https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.gif" />
 
-- 🔭 I’m currently working on an sms-based weather notifier!
+- 🔭 I’m currently working on a few projects, ranging from an <br>AI Bias Detection Tool, <br> AI CyberSecurity Threat Detection Tool, and an <br>SMS-Based Weather Notifier!
 
 - 👯 I’m looking to find work and collaborate with an amazing team!
 
-- 💬 Ask me about AI!
+- 💬 Ask me about AI and the world around us!
 
 - 📫 How to reach me **edwinurrea@icloud.com**
 
-- ⚡ Fun fact: **I love cats and volunteering!**
+- ⚡ Fun fact: **I love cars, cats, and volunteering!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
